@@ -1,0 +1,30 @@
+Omar Villegas
+CS 4339
+Assignment 1
+
+1) What random name did you use for the directory on the server?
+
+  The directory to my php file is as follows
+
+  ovillegas2/JavaToPhp/expression.php
+
+
+2) How long did you spend to do this assignment?
+
+  It took me approximately 6 workings hours to complete translate the Java
+  code to PHP including testing.
+
+
+3) What problems (if any) did you encounter in this assignment, and if
+yes, how did you solve the problems?
+
+  This assignment was pretty straight forward. Most of the translation was
+  trivial. The difficulty arose when trying to find functions that had similar
+  functionality to Java methods. The bulk of the time for completing this
+  assignment was spent researching functions that would be appropriate
+  replacements for the Java methods found. In particular the php function
+  fgets() was causing erroneous results as I was not aware that it reads a line
+  from a file but also includes the new line character. This nuance caused
+  the index to increment after the end of the expression causing the error.
+  Overall, this was assignment was helpful as it refreshed my php skills and
+  allowed me to discover new, useful functions.
